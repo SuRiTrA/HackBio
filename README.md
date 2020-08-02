@@ -1,6 +1,6 @@
 # HackBio
 HackBio Internship Repository
-![Hack Bio](/
+
 
 ## Project
 
